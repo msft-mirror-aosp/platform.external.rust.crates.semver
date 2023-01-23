@@ -2,12 +2,18 @@
 {
   "presubmit": [
     {
-      "name": "virtualizationservice_device_test"
+      "name": "virtualizationmanager_device_test"
+    },
+    {
+      "name": "vm.test"
     }
   ],
   "presubmit-rust": [
     {
-      "name": "virtualizationservice_device_test"
+      "name": "virtualizationmanager_device_test"
+    },
+    {
+      "name": "vm.test"
     }
   ]
 }
